@@ -5,12 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matosluizdev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   </a>
   <br>
-  <img align="center" alt="Luiz-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Luiz-CSS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Luiz-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Luiz-PHP" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Laravel" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  <img align="center" alt="Luiz-vue" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="Luiz-HTML" height="40" width="50" src="https://devicons.dev.br/icons?icon=HTML&theme=dark" />
+  <img align="center" alt="Luiz-CSS" height="40" width="50"  src="https://devicons.dev.br/icons?icon=CSS&theme=dark" />
+  <img align="center" alt="Luiz-JS" height="40" width="50" src="https://devicons.dev.br/icons?icon=JavaScript&theme=dark" />
+  <img align="center" alt="Luiz-PHP" height="40" width="50" src="https://devicons.dev.br/icons?icon=PHP&theme=dark" />
+  <img align="center" alt="Laravel" height="40" width="50"  src="https://devicons.dev.br/icons?icon=Laravel&theme=dark" />
+  <img align="center" alt="Luiz-vue" height="40" width="50" src="https://devicons.dev.br/icons?icon=VueJS&theme=dark" />
+  <img align="center" alt="Luiz-vite" height="40" width="50" src="https://devicons.dev.br/icons?icon=Vite&theme=dark" />
 </div>
 <br>
 <div>
