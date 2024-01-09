@@ -11,7 +11,7 @@
   <img align="center" alt="Luiz-PHP" height="40" width="50" src="https://devicons.dev.br/icons?icon=PHP&theme=dark" />
   <img align="center" alt="Laravel" height="40" width="50"  src="https://devicons.dev.br/icons?icon=Laravel&theme=dark" />
   <img align="center" alt="Luiz-vue" height="40" width="50" src="https://devicons.dev.br/icons?icon=VueJS&theme=dark" />
-  <img align="center" alt="Luiz-vite" height="40" width="50" src="https://devicons.dev.br/icons?icon=Vite&theme=dark" />
+  <img align="center" alt="Luiz-Tailwind" height="40" width="50"  src="https://devicons.dev.br/icons?icon=TailwindCSS&theme=dark" />
 </div>
 <br>
 <div>
