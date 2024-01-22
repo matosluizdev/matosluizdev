@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/matosluizdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matosluizdev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matosluizdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <br>
   <img align="center" alt="Luiz-HTML" height="40" width="50" src="https://devicons.dev.br/icons?icon=HTML&theme=dark" />
