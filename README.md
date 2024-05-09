@@ -7,9 +7,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matosluizdev/matosluizdev/output/github-contribution-grid-snake.svg">
 </picture>
   <br>
- <img align="center" alt="Tailwind" height="40" width="50" src="https://devicons.dev.br/icons?icon=TailwindCSS&theme=dark">
  <img align="center" alt="Laravel" height="40" width="50"  src="https://devicons.dev.br/icons?icon=Laravel&theme=dark" />
- <img align="center" alt="Luiz-vue" height="40" width="50" src="https://devicons.dev.br/icons?icon=VueJS&theme=dark" />
 </div>
 <br>
 <div>
